@@ -8,5 +8,4 @@ RecipesApp is a Java project that you can use to get Japanese cooking recipes.
 4. Register and log in.
 5. Enjoy !
 
-
 ![alt text](https://github.com/MopyKing/RecipesApp/blob/main/app/src/main/res/drawable/Sukiyaki.png)
