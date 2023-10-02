@@ -1,5 +1,5 @@
 # introduction
-RecipesApp is a Java project that you can use to get Isreali cooking recipes.
+RecipesApp is a Java project that you can use to get Japanese cooking recipes.
 
 # Deployment
 1. Install Android Studio on your computer and pair your phone with Androis Studio.
@@ -7,4 +7,4 @@ RecipesApp is a Java project that you can use to get Isreali cooking recipes.
 3. Install the RecipesApp.
 4. Register and log in.
 5. Enjoy !
-![alt text](https://github.com/MopyKing/RecipesApp/blob/main/app/src/main/res/drawable/Sukiyaki.png?raw=true)
+![alt text](https://github.com/MopyKing/RecipesApp/blob/main/app/src/main/res/drawable/Sukiyaki.png)
